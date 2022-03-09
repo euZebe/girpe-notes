@@ -1,7 +1,10 @@
 # Logiciel Girpe
 
 ## ouverture
-- ouvrir un classeur : GIRPEclasseur / Echillais / phase 2 / D1P2-D2P3
+Si la feuille de match a été préparée en amont,
+- ouvrir un classeur : par exemple dans `GIRPEclasseur / Echillais / phase 2 / D1P2-D2P3` 
+
+Note: D1P2-D2P3 parce que la D1 et la D2 jouent à domicile en même temps => les deux feuilles de match sont disponibles dans le même classeur)
 
 ## préparer la feuille de rencontre
 - double cliquer sur la cellule juge arbitre, sélectionner club : Echillais, et nom : raud
@@ -10,9 +13,12 @@
 - imprimer / fiche de partie et plan d'arbitrage / imprimer 
 
  ## scores 
-- cliquer sur la ligne d'une rencontre 
-- si set à 11 - 5 pour ABCD, mettre 5.
-- si set à 11 - 8 pour WXYZ, mettre -8. 
+- cliquer sur la ligne d'une rencontre.
+- Marquer le score de celui qui a perdu le set ; si c'est un joueur ABCD, mettre son score en positif ; si c'est un joueur WXYZ, mettre son score en négatif.
+
+Exemples:
+- si set à `11-5` pour ABCD, mettre `5`.
+- si set à `11-8` pour WXYZ, mettre `-8`. 
 
 ## doubles
 - menu "outils 🛠" / saisir les doubles 
